@@ -1,5 +1,5 @@
 # hanoi_tower 河內塔
-使用 C 語言寫的簡易版河內塔 hanoi_tower
+使用 C 語言寫的簡易版河內塔 hanoi_tower  
 設定為三柱, 碟數則由使用者執行時輸入
 
 linux 下編譯
